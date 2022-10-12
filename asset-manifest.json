@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/scroll/static/css/main.e40df235.css",
+    "main.js": "/scroll/static/js/main.f0533b64.js",
+    "static/media/hero-bcg.jpeg": "/scroll/static/media/hero-bcg.1486d4061cd0252b9a21.jpeg",
+    "index.html": "/scroll/index.html",
+    "main.e40df235.css.map": "/scroll/static/css/main.e40df235.css.map",
+    "main.f0533b64.js.map": "/scroll/static/js/main.f0533b64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e40df235.css",
+    "static/js/main.f0533b64.js"
+  ]
+}
